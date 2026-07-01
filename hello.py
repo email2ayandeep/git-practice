@@ -1,4 +1,4 @@
-print("Hello,Git!")
-print("Hello,try Git!")
-print("Hello,try 1 Git!")
+print("Learning Git Day 5")
+#5 day practice
+
 
